@@ -4,7 +4,6 @@ import Footer from "./pages/footer";
 import Blog from "./pages/blog";
 import Reviews from "./pages/reviews";
 import Navbar from "./pages/navbar";
-import Gallery from "./pages/gallery";
 import Contact from "./pages/contact";
 
 export default function Home() {
@@ -26,7 +25,6 @@ export default function Home() {
         <Services />
         <Blog />
         <Reviews />
-        <Gallery />
         <Contact />
         <Footer />
       </div>
